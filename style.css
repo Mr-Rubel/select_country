@@ -1,0 +1,67 @@
+.addr {
+    background-color: #9D9D9D;
+    width: 600px;
+    margin: auto;
+    height: 353px;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+select.zero {
+    padding: 5px;
+    font-size: 20px;
+    left: 167px;
+    text-transform: capitalize;
+    position: relative;
+}
+#one {
+    position: relative;
+    top: 30px;
+    right: 232px;
+    padding: 10px;
+    font-size: 20px;
+}
+select.west-asia{
+    font-size: 20px;
+    padding: 6px;
+    text-transform: capitalize;
+    position: relative;
+    top: 14px;
+    left: 85px;
+}
+select.division {
+    position: relative;
+    padding: 7px;
+    font-size: 20px;
+    top: 51px;
+    left: 167px;
+}
+select.north-asia {
+    font-size: 20px;
+    position: relative;
+    top: 8px;
+    padding: 5px;
+    left: -18px;
+}
+select.zilla {
+    font-size: 20px;
+    padding: 6px;
+    position: relative;
+    top: 97px;
+    left: -125px;
+}
+select.oard {
+    font-size: 20px;
+    padding: 6px;
+    position: relative;
+    top: 102px;
+    left: 167px;
+}
+select.gram {
+    position: relative;
+    font-size: 20px;
+    top: 146px;
+    padding: 6px;
+    left: -119px;
+}
